@@ -1,5 +1,3 @@
-![GitHub Streak](https://streak-stats.demolab.com/?user=Rakshita-Gummat&theme=dark)
-
 # Rakshita Gummat
 
 AI/ML Engineering | Machine Learning · Explainable AI · Computer Vision · Full-Stack AI Applications
@@ -15,6 +13,8 @@ AI/ML Engineering | Machine Learning · Explainable AI · Computer Vision · Ful
 ## µ-Bio
 
 Recent graduate (AIML) building end-to-end AI products — from predictive models and explainable AI to full-stack deployment with Flask/FastAPI/React. Comfortable across the stack: data preprocessing, model training, REST APIs, and shipping a usable UI on top.
+
+![GitHub Streak](https://streak-stats.demolab.com/?user=Rakshita-Gummat&theme=dark)
 
 ## 🧪 Featured Projects
 
