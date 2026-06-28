@@ -1,6 +1,8 @@
+![GitHub Streak](https://streak-stats.demolab.com/?user=Rakshita-Gummat&theme=dark)
+
 # Rakshita Gummat
 
-AI/ML Engineer | Machine Learning · Explainable AI · Computer Vision · Full-Stack AI Applications
+AI/ML Engineering | Machine Learning · Explainable AI · Computer Vision · Full-Stack AI Applications
 
 📍 Bengaluru, India — Acharya Institute of Technology
 
