@@ -4,7 +4,7 @@ AI/ML Engineer | Machine Learning · Explainable AI · Computer Vision · Full-S
 
 📍 Bengaluru, India — Acharya Institute of Technology
 
-Email: rakshitagummat [at] gmail [dot] com
+Email: rakshitagummat@gmail.com
 LinkedIn: in/rakshita-gummat
 GitHub: Rakshita-Gummat
 
