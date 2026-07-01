@@ -1,8 +1,8 @@
 # Rakshita Gummat
 
-AI/ML Engineering | Machine Learning · Explainable AI · Computer Vision · Full-Stack AI Applications
+AI/ML Engineering | Machine Learning · Explainable AI · Computer Vision · Full-Stack AI Applications  · Data Analysis
 
-📍 Bengaluru, India — Acharya Institute of Technology
+📍 Bengaluru, Karnataka, India 
 
 ##  Contact
 
@@ -12,7 +12,7 @@ AI/ML Engineering | Machine Learning · Explainable AI · Computer Vision · Ful
 
 ## µ-Bio
 
-Recent graduate (AIML) building end-to-end AI products — from predictive models and explainable AI to full-stack deployment with Flask/FastAPI/React. Comfortable across the stack: data preprocessing, model training, REST APIs, and shipping a usable UI on top.
+Recent graduate (AIML) building end-to-end AI products from predictive models and explainable AI to full-stack deployment with Flask/FastAPI/React. Comfortable across the stack: data preprocessing, model training, REST APIs, and shipping a usable UI on top.
 
 ![GitHub Streak](https://streak-stats.demolab.com/?user=Rakshita-Gummat&theme=dark)
 
@@ -28,7 +28,7 @@ Explainable AI project predicting mental health treatment likelihood from survey
 AI-powered route safety platform for women's safety and smart navigation. Predicts safer travel routes using crime-data analysis, weather insights, and geospatial risk scoring (Flask, MongoDB, Mapbox).
 
 **[RestoShield-AI](https://github.com/Rakshita-Gummat/RestoShield-AI)**
-AI-powered restaurant incident reporting and operations management platform — React, FastAPI, MySQL, JWT auth, analytics dashboard, and intelligent severity prediction.
+AI-powered restaurant incident reporting and operations management platform -React, FastAPI, MySQL, JWT auth, analytics dashboard, and intelligent severity prediction.
 
 **[RASEPS](https://github.com/Rakshita-Gummat/RASEPS-Regime-Aware-Sector-Explainable-Portfolio-Selection-Using-Ensemble-Machine-Learning)**
 Regime-Aware Sector-Explainable Portfolio Optimization. Ensemble ML system (LightGBM, XGBoost, Logistic Regression) predicting stock return direction and detecting volatility regimes.
@@ -43,16 +43,16 @@ AI-powered resume optimization platform analyzing resumes against job descriptio
 Deep learning skin analysis system classifying conditions (acne, dark spots, wrinkles, puffy eyes, normal skin) using CNN/DenseNet/EfficientNet transfer learning.
 
 **[primetrade-trader-sentiment-analysis](https://github.com/Rakshita-Gummat/primetrade-trader-sentiment-analysis)**
-Data-driven analysis of crypto trader performance across market sentiment phases — data cleaning, statistical testing, trader segmentation, strategy recommendations.
+Data-driven analysis of crypto trader performance across market sentiment phases -data cleaning, statistical testing, trader segmentation, strategy recommendations.
 
 **[pulmonary-nodule-classification](https://github.com/Rakshita-Gummat/pulmonary-nodule-classification)**
 Pulmonary nodule classification using Fleischner and Lung-RADS guidelines.
 
 **[customer-churn-prediction](https://github.com/Rakshita-Gummat/customer-churn-prediction)**
-Customer churn prediction on the IBM Telco dataset — preprocessing, Random Forest & XGBoost training, evaluation.
+Customer churn prediction on the IBM Telco dataset -preprocessing, Random Forest & XGBoost training, evaluation.
 
 **[cursor-ecom-exercise](https://github.com/Rakshita-Gummat/cursor-ecom-exercise)**
-AI-assisted e-commerce data pipeline (Cursor IDE) — synthetic dataset generation, SQLite ingestion, structured SQL-based analysis.
+AI-assisted e-commerce data pipeline (Cursor IDE) -synthetic dataset generation, SQLite ingestion, structured SQL-based analysis.
 
 ## 🛠️ Tech Stack
 
