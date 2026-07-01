@@ -4,7 +4,7 @@ AI/ML Engineering | Machine Learning · Explainable AI · Computer Vision · Ful
 
 📍 Bengaluru, India — Acharya Institute of Technology
 
-## 📫 Contact
+##  Contact
 
 - Email: rakshitagummat@gmail.com
 - LinkedIn: [in/rakshita-gummat](https://linkedin.com/in/rakshita-gummat)
@@ -16,7 +16,7 @@ Recent graduate (AIML) building end-to-end AI products — from predictive model
 
 ![GitHub Streak](https://streak-stats.demolab.com/?user=Rakshita-Gummat&theme=dark)
 
-## 🧪 Featured Projects
+## Featured Projects
 
 **[health-prediction-app](https://github.com/Rakshita-Gummat/health-prediction-app)**
 Full-stack health prediction app (Flask + React + SQLite). Patient CRUD with soft delete, leap-year-safe validation, and AI/ML risk remarks via an external Health API with a deterministic rule-based fallback.
